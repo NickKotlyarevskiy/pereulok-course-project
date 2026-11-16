@@ -1,0 +1,15 @@
+/vendor
+/node_modules
+/.env
+/.phpunit.cache
+/public/build
+/public/hot
+/storage/*.key
+/storage/framework/cache/data/*
+/storage/framework/sessions/*
+/storage/framework/views/*
+/storage/logs/*.log
+/database/*.sqlite-shm
+/database/*.sqlite-wal
+.DS_Store
+.phpunit.result.cache
